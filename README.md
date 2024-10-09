@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @i-robots
-- 👀 I’m interested in front end development
-- 🌱 I’m currently doing Vue.js
-- 💞️ 
-- 📫
+- 👋 Hi, I’m Henok
+- 👀 I’m Senior Front end developer
+- 🌱 5+ years exoerience in Vue.js
 
 <!---
 i-robots/i-robots is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
